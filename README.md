@@ -1,7 +1,7 @@
 <p align="center">
       <img src="https://wallpapercave.com/uwp/uwp757693.gif" height="250px" width="300px" ></img>
       <br><br>
-      Nivistealer coded by : swagkarna
+    
  </p>
  
  ---
@@ -20,8 +20,7 @@
  ---
  
  ## How to use?
- 
-      <b>Method  :</b>
+
             
 - Clone or Download this repo
 - Create a account on any webhosting site that provide ssl . I suggest a free webhosting site called ```000webhost.com```
